@@ -1,0 +1,45 @@
+# This is a comment
+
+# a single property
+name: Hans
+
+
+names:    #  a list of properties , note that you use at least 2 spaces for each value
+  - Hnas
+  - Jacky
+  - Cas
+  - Anouk
+  
+  
+#  An object
+
+book:
+	author: Hans van Meurs
+	publisher: Reed
+	
+# booleans
+
+truth: yes
+
+another-truth: True
+
+more_true: true
+
+false: no # or No, false, FALSE
+
+string_val: "This is it's quote"  # use " to escape the ' 
+
+colon_string: "This contains a colon ':' and should be escape by double quotes" 
+
+include_new_lines: |
+  SDF SDFS F SF SFS F
+  SD NFSDF SFS FSDFSDFSF S SDFS DF
+  HFG HT HR HR HHGGRTE 
+  
+ignore_new_lines: >   
+  this will still 
+  be one 
+  long line
+ 
+
+ 

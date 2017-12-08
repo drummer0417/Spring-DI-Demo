@@ -1,0 +1,5 @@
+aaf:
+  jms:
+    username: jmsymluser
+    password: jmsymlpassword
+    url: jmsymlurl
